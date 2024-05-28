@@ -4,7 +4,7 @@ namespace ExercicioRocketSeat1;
 
 public class Exerc6
 {
-    public static void FormatoData()
+    public static void FormatoDataHoje()
     {
         Console.WriteLine("Qual o formato desejado da data atual? (Digite o numero)");
         Console.WriteLine("1 - Formato Completo");

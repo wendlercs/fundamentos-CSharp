@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioRocketSeat1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d5a4d8e123fb7d5c3597533fa7af5057062bc50")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioRocketSeat1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioRocketSeat1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
