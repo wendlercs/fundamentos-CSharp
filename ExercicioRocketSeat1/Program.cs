@@ -6,7 +6,7 @@ public class Program
 {
     static void Main()
     {
-        Console.WriteLine("Escolha o exercicio de 1 a 5");
+        Console.WriteLine("Escolha o exercicio de 1 a 6");
         Console.WriteLine("1 - Mensagem Bem-vindo");
         Console.WriteLine("2 - Nome Completo");
         Console.WriteLine("3 - Matematica");
